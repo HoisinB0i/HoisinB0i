@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoisinB0i
+- 👋 Hi, I’m @Kevin Bui
 - 👀 I’m interested in tech, gaming, and F00D! 
 - 🌱 I’m currently enrolled in a Coursera Course about IBM Data Science, hoping for a career in software engineering in the future.
 - 💞️ I’m looking to collaborate on any projects for Python related scipts or anything beginner related.
